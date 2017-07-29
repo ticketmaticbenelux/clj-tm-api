@@ -1,5 +1,7 @@
 # clj-tm-api
 
+[![Clojars Project](https://img.shields.io/clojars/v/clj-tm-api.svg)](https://clojars.org/clj-tm-api)
+
 A Clojure wrapper for the [Ticketmatic 3 API](https://www.ticketmatic.com/docs/api/).
 
 ## Usage
